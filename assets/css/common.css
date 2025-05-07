@@ -1,0 +1,85 @@
+/* fonts */
+@font-face {
+    font-family: 'ROKABold';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_2104@1.1/ROKABold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+
+
+
+html{
+    font-size: 12px;
+}
+
+body{
+    font-family: "Pretendard Variable", Pretendard, -apple-system, BlinkMacSystemFont, system-ui, Roboto, "Helvetica Neue", "Segoe UI", "Apple SD Gothic Neo", "Noto Sans KR", "Malgun Gothic", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", sans-serif;
+}
+
+.d-flex{
+    display: flex;
+}
+.d-flex-s{
+    display: flex;
+    justify-content: space-between;
+}
+.d-flex-c{
+    display: flex;
+    flex-direction: column;
+}
+
+.w-100{
+    width: 100%;
+}
+.w-60{
+    width: 60%;
+}
+.w-50{
+    width: 50%;
+}
+.w-40{
+    width: 40%;
+}
+.w-25{
+    width: 25%;
+}
+
+.sec-auto{
+    width: 1368px;
+    margin: 0 auto;
+}
+
+img{
+    width: 100%;
+}
+
+h1{
+    font-size: 5.33rem;
+    font-weight: 800;
+    color: #186efc;
+    margin: 0;
+} 
+
+h3, p{
+    margin: 10px 0;
+}
+
+.section_title{
+    font-size: 4rem;
+    font-weight: 600;
+    color: #0b1030;
+}
+
+.point_txt{
+    font-weight: 700;
+    color: #186EFC;
+}
+
+.text-bold{
+    font-weight: bold;
+}
+
+.h-140{
+    height: 140px;
+}
