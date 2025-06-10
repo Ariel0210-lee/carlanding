@@ -216,6 +216,8 @@ section{
 
 .sec03__check{
     margin: 2.5rem 0 5.08rem;
+    display: flex;
+    flex-direction: column;
 }
 .sec03__check input{
     accent-color: #186EFC;   

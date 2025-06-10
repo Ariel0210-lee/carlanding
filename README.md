@@ -13,10 +13,10 @@
 -412
 -348
 
-## Demo
-
-![Image](https://github.com/user-attachments/assets/11add61d-f10e-4871-b139-d424a3a14f9f)
-
-### NOTICE
+## NOTICE
 
 해당 페이지는 포트폴리오용으로 제작되었습니다.
+
+### Demo
+
+![Image](https://github.com/user-attachments/assets/11add61d-f10e-4871-b139-d424a3a14f9f)
