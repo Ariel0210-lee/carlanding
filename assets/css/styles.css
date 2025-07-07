@@ -20,6 +20,9 @@ header{
     font-weight: 700;
     color: #186EFC;
 }
+.logo h2 a{
+    text-decoration: none;
+}
 .nav-bar{
     padding: 1.5rem 0;
 }
@@ -92,11 +95,17 @@ section{
     font-weight: 500;
     color: #186EFC;
     text-align: center;
-    padding: 1.5em 2.5em;
+    padding: 1.3em 2.5em;
     border: 1px solid #186EFC;
     border-radius: 2.5em;
     background-color: transparent;
     margin-top: 2.58em;
+    cursor: pointer;
+    transition: all .2s ease-in;
+}
+.main_btn:hover {
+    color: #fff;
+    background: #186EFC;
 }
 
 .ellipes{
